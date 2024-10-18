@@ -10,11 +10,15 @@
 }
 
 .main-content {
-    max-width: 1200px;
+    max-width: 120rem;
     margin: 0 auto;
-    padding: var(--gap);
+    padding: 0.5rem var(--gap);
 }
 
 .section{
     min-height: 100vh;
+}
+
+.menu-spacing {
+    height: 65px;
 }
