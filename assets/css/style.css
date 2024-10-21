@@ -21,7 +21,20 @@
     line-height: 1.2;
 }
 
-.intro-img {
+.intro-img img {
     max-width: 100%;
     height: auto;
 }
+
+ /* The max-width for the font size is dont working. */
+
+.top3-content {
+    max-width: 64rem;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    
+}
+
