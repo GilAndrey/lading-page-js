@@ -82,6 +82,12 @@
     transform: rotate(5deg);
 }
 
+/* For Gallery H2 space adjustment */
+
+.gallery-heading {
+    padding-top: 4rem;
+}
+
 .gallery-img {
     width: 100%;
     max-width: 36rem;
