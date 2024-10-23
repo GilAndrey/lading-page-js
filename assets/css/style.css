@@ -103,11 +103,11 @@
     transform: translate(-3%, 3%) scale(1.2) rotate(5deg);
 }
 
-.contanct-form {
+.contact-form {
     grid-column: span 2;
 }
 
-.contanct-form .form-grid {
+.contact-form .form-grid {
     border: none;
     display: flex;
     flex-flow: row wrap;
