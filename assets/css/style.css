@@ -159,3 +159,21 @@
 .form-group ::placeholder {
     color: var(--light-gray-color);
 }
+
+.footer {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.footer a {
+    color: var(--primary-color);
+}
+
+.star {
+    color: yellow;
+}
+
+.footer p {
+    margin: 0;
+    padding: 3rem;
+}
