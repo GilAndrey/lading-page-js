@@ -4,4 +4,11 @@
     --light-gray-color: #EEE;
     --secondary-color: crimson; 
     --gap: 3rem;
+
+    --spacings-xsmall: 1rem;
+    --spacings-small: 2rem;
+    --spacings-medium: 3rem;
+    --spacings-large: 5rem;
+    --spacings-xlarge: 8rem;
+    --spacings-xxlarge: 11rem;
 }
